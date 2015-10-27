@@ -2,8 +2,8 @@
 Material Wintersemester 2015 / 2016.
 
 1. Info-Didaktik Teresa
-    1. (Text 4)[https://google.de]
-    2. (Text 5)[https://google.de]
+    1. [Text 4](https://google.de)
+    2. [Text 5](https://google.de)
 2. Arduino Projekt
 
 
