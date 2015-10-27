@@ -146,4 +146,3 @@ Gleichgültigkeit oder Ablehnung in einer Wahlsituation (Geburstagseinladung?)
       * Clusteranalyse: Teilgruppen werden aus der Gesamtzahl herausgefiltert
       * Pfadanalyse: Ausmaß und die Richtung des Einflusses verschiedener Variablen auf die Zielvariable
 
-### 5.3. Kritik und Weiterentwicklungen
