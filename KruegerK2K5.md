@@ -93,10 +93,57 @@ die strukturierte Beobachtung sowie verschiedene Testverfahren.
       * Offene Fragen sind mit Auswertungsschwierigkeiten verbunden
       * Aufbau sollte klever sein: Tendenz zur Milde, Ermüdungstendenz, ... abschwächen
 2. Beobachtung
+      * Verzerrung durch Beobachtungsbögen, Schulungen, Anzahl Beobachter, Einsatz technischer Hilfsmittel entgegenwirken
+      * Beobachtungseinheit: Zeiteinheiten oder natürliche Einheiten
+      * Kategorien der U-Forschung deskriptiven (SchülerIn meldet sich) vs interpretativen (der SchülerIn hört zu)
+3. Tests
+      * Arten von Tests
+         * Intelligenztests
+         * Persönlichkeitstests
+         * Schulreifetests
+         * Tests für Lern- u. Geistigbehinderte 
+         * Schulleistungstests
+      * normorientierten
+         * Rangfolge in einer vergleichbaren Bezugsgruppe
+      * kriteriumsorientiert
+         * lernzielorientiert (Lernziel erreicht?)
 
+Def. Tests
+> gelten als wissenschaftliche Routineverfahren zur Untersuchung eines oder mehrerer empirisch abgrenzbarer
+> Persönlichkeitsmerkmale mit dem Ziel einer möglichst quantitativen Aussage über den Grad der individuellen Merkmalsausprägung (Lienert 1969, S.7).
 Häufig in der Erziehungswissenschaft, die Befragungsform Soziometrie.
 Soziometrie ist die quantitative Untersuchung zwischenmenschlicher Beziehungen unter dem Aspekt der Bevorzugung,
 Gleichgültigkeit oder Ablehnung in einer Wahlsituation (Geburstagseinladung?)
 
+#### Methoden
+#### Auswertung der quantitativen Daten
+1. Phase der Datenbereinigung
+      1. Aufbereitung der Daten für den PC
+      2. Daten werden codiert
+      3. Datenprüfung, Datenkorrektur, Plausabilitätsprüfung 
+      4. Datenfehler finden (z.B. zweifelhaft erscheinde Altersangaben)
+2. Phase der deskriptiven Datenauswertung
+      1. Häufigkeitsaufzählung einzelner Variablen
+      2. Prüfung von Zusammenhängen zwischen zwei Variablen
+3. Zusammenhänge untersuchen und Hypothesen testen
+      1. Verschiedene komplexe Analysetechnien
+
+#### Datenanalyse 
+1. Univariate
+      * Randauszählung, Häufigkeitsverteilung für jede Variable im Datensatz
+      * Stabdiagramm oder Histogramm für relative Häufigkeit
+      * Berechnung der Maßzahlen der zentralen Tendenz
+      * Berechnung des Streuuungsmaßes
+2. Bivariate
+      * Erforschung des Zusammenhängen zwischen zwei Variablen.
+      * abhängige Variable y, unabhängige Variable x mind. intervallskaliert, dann Korrelations- und Regressionsanalyse möglich
+       * Korrelationsanalyse: Frage nach der Stärke des Zusammenhangs
+       * Regressionsanalysen: Art des Zusammenhanges zwischen zwei Variablen
+3. Mutivariate 
+      * Gleichzeitige Berücksichtigung mehrerer Variablen
+      * Benötigt hohe Skalenqualität
+      * Faktoranalyse: Matrix der Korrelation 
+      * Clusteranalyse: Teilgruppen werden aus der Gesamtzahl herausgefiltert
+      * Pfadanalyse: Ausmaß und die Richtung des Einflusses verschiedener Variablen auf die Zielvariable
 
 ### 5.3. Kritik und Weiterentwicklungen
