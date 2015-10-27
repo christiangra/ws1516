@@ -42,6 +42,7 @@ Qualitative Forschung geht von einem Gegenstandsverständnis aus, das die sozial
 
 #### Schwerpunkte der qualitativen Forschung
 in den letzten beiden Jahrzehnten
+
 1. Durchführung von Lebensweltstudien 
     * Analyse des Alltags im Heim
 2. Mikroskopisch orientierte Interaktionsstudien 
@@ -53,11 +54,11 @@ in den letzten beiden Jahrzehnten
 
 ### 4.2 Schritte und Methoden qualitativer erziehungswisenschaftlicher Forschung
 #### Prozessmodell
-* quantitative Forschungslogik lineares Vorgehen
+1. quantitative Forschungslogik lineares Vorgehen
     1. Rückgriff auf Wissenbestände aus Literatur, aus festgelegten empirischen Zusammenhängen
     2. Hypothesen werden abgeleitet
     3. Diese werden in operatonalisierter Form überprüft
-* qualitative Forschung zirkulären Modell der Abfolge von Forschungsschritten
+2. qualitative Forschung zirkulären Modell der Abfolge von Forschungsschritten
     * ***Gegenstandsbezogenen Theoriebildung!***
     1. Orientierung an einem Vorverständnis über das zu untersuchende Feld
     2. Dies wird als vorläufig angesehen und muss im Verlauf des Forschungsprozesses ständig reformuliert werden.
