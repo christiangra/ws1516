@@ -5,10 +5,12 @@ II Kapitel 4ter Text - Lesen zum 28.10.15 -  Haupt- und Forschungsseminar WiSe 2
 ## Mitschrift
 
 ### 4.1 Entstehungskontext, Grundannahmen und Forschungsfelder
-> ***Qualitativ-empirische Forschung*** hat das ***Ziel*** einer möglichst gegenstandsnahen
+#### Qualitativ-empirische Forschung
+> hat das ***Ziel*** einer möglichst gegenstandsnahen
 > Erfassung der ganzheitlichen Eigenschaften (qualia) sozialer Felder.
 
 > > Möglichst unvoreingenommen, unmittelbarer Zugang zum jeweiligen sozialen Feld.
+
 > > Unter Berücksichtigung der Weltsicht der dort Handelnden.
 
 Anfänge von qualitativer Forschung: Biographieforschung.
@@ -61,16 +63,16 @@ in den letzten beiden Jahrzehnten
     2. Dies wird als vorläufig angesehen und muss im Verlauf des Forschungsprozesses ständig reformuliert werden.
     3. Ziel ist es: neue Theroie zu entwickeln, die zwischen der bereits bestehenden und der sich entfaltenden Theorie
 
-Orientierung
+##### Orientierung
 * Prinzip der Offenheit 
     * keine Vorab-Hypothesen
     * dafür Fragestellungen um Forschungsfeld zu beschränken
 
-Auswahl der Fälle
+#### Auswahl der Fälle
 * quantitative Forschung Vorab-Quotierung
 * qualitative Forschung eher geringe Fallzahlen
 
-Auswahlstrategien (kombinationsfähig)
+#### Auswahlstrategien (kombinationsfähig)
 * theoretisches Sampling / Anreicherung der sich entwickelnden Theorie
     * Wahl des Material wird im Proess der Datenerhebung und -auswertung gefällt
     * hypothetische Kontrasfälle werden in Daten gesucht
@@ -79,8 +81,8 @@ Auswahlstrategien (kombinationsfähig)
 * Analytische Induktion 
     * Absicherung der Theorie durch die Analyse abweichender Fälle
 
-### qualitative Methoden der Datensammlung und -erhebung
-Unterscheidung erfolgt hinsichtlich
+#### qualitative Methoden der Datensammlung und -erhebung
+Unterscheidung bzgl.
 1. verschiedener Befragungstechniken
     1. Einzelinterview
     2. Gruppendiskussionsverfahren
@@ -108,13 +110,14 @@ Unterscheiden sich hinsichtlich
 * unterschiedlicher Grad der Involviertheit des Forschers
 * Beobachtung findet un- / wissentlich statt 
 
-zentrales Problem: epistemologische Status der Beobachtungsnotien und -protokolle (Sichtweise des Beobachters oder beobachtete Situation)
-Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahmen etc..
+#### zentrales Problem: 
+> epistemologische Status der Beobachtungsnotien und -protokolle (Sichtweise des Beobachters oder beobachtete Situation)
+>>Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahmen etc..
 
 
 #### Qulitative Methodne der Datenauswertung 
 (PdfS. 12 Übersicht)
-* desktiptiv-analystisch-typologisch
+* ***desktiptiv-analystisch-typologisch***
     1. Paraphrasierung (Textinterpretation)
       1. virtuelles Sich-Heinein-Versetzen 
       2. metakommunikative rekonstruktionsphase 
@@ -127,7 +130,7 @@ Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahm
     4. dokumentarische Methode
       * eignet sich zur Auswertung von Gruppendiskussionen
     
-* theoriebildend
+* ***theoriebildend***
     1. grounded theory 
       * Wirklichkeit wird theoriebildend rekonstruiert
       * Theorie-Memos
@@ -137,8 +140,7 @@ Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahm
       2. Strukturelle inhaltliche Beschreibung, Verknüpfung der Segmente zu einer Erzählkette.
       3. Analytische Abstraktion: lösen von Einzeldetails, um biographische Gesamtform zu erhalten
       * Ziel: Zusammenhang faktischer biographischer Prozessstrukturen zu rekonstruieren, anstatt subjektive Deutung des Erzählers.
-      * 
-* tiefenstrukturell
+* ***tiefenstrukturell***
     1. psychoanalytische Tiefenhermeneutik
       * Ziel: Rekonstruktion der psychisch unbewussten Strukturen
       * Ziel: das latent Unbewußte in sozialen Interaktionsformen und Lebensgeschichten herauszuarbeiten.
@@ -154,7 +156,8 @@ Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahm
     3. Konzept der Diskursanalyse
     
 ### Kritik und Weiterentwicklung
-Bei qualitativen Studien zwei zentrale Unzulänglichkeiten
+
+#### Bei qualitativen Studien zwei zentrale Unzulänglichkeiten
 1. 
     * Ebene einer intensiven Einzelfallanalyse wird vorschnell verlassen
     * Innere Sequenziertheit eines Interviewtextes wird nicht berücksichtigt
@@ -162,6 +165,6 @@ Bei qualitativen Studien zwei zentrale Unzulänglichkeiten
 2. Verwechslung qualitativer und quantitativer Forschugnslogiken
     * Bsp. Verteilungsaussagen über eine Grundgesamtheit (quantitativ) auf dem Ergebnis einer qualitativen Studie (Ergebnis nicht quantitativ) 
 
-Entwicklung:
+#### Entwicklung:
 Qualitative Fallstudien und quantitative Surveystudien kombinieren.
 
