@@ -5,40 +5,40 @@ II Kapitel 4ter Text - Lesen zum 28.10.15 -  Haupt- und Forschungsseminar WiSe 2
 ## Mitschrift
 
 ### 4.1 Entstehungskontext, Grundannahmen und Forschungsfelder
-***Qualitativ-empirische Forschung*** hat das ***Ziel*** einer möglichst gegenstandsnahen
-Erfassung der ganzheitlichen Eigenschaften (qualia) sozialer Felder.
-Möglichst unvoreingenommen, unmittelbarer Zugang zum jeweiligen sozialen Feld.
-Unter Berücksichtigung der Weltsicht der dort Handelnden.
+> ***Qualitativ-empirische Forschung*** hat das ***Ziel*** einer möglichst gegenstandsnahen
+> Erfassung der ganzheitlichen Eigenschaften (qualia) sozialer Felder.
+
+> > Möglichst unvoreingenommen, unmittelbarer Zugang zum jeweiligen sozialen Feld.
+> > Unter Berücksichtigung der Weltsicht der dort Handelnden.
 
 Anfänge von qualitativer Forschung: Biographieforschung.
 
-Grundannahmen qualitativer Forschung
-Unterscheidung zwischen Gegenstandsannahmen, daraus resuliterenden forschungsmethodischen Konsequenzen sowie
-Vorstellungen über den pragmatischen Nutzen qualitativer Methoden.
-Dazu kommt Geltungsbegründung qualitativ erhobener Daten udn Auswertungsresultate. 
+#### Grundannahmen qualitativer Forschung
+> Unterscheidung zwischen Gegenstandsannahmen, daraus resuliterenden forschungsmethodischen Konsequenzen sowie
+> Vorstellungen über den pragmatischen Nutzen qualitativer Methoden.
+> > Dazu kommt Geltungsbegründung qualitativ erhobener Daten und Auswertungsresultate. 
 
 Qualitative Forschung geht von einem Gegenstandsverständnis aus, das die soziale Welt als eine durch interaktives Handeln konstituierte Welt begreift, die für den Einzelnen, aber auch für Kollektive sinnhaft strukturiert ist.
 
-Ziel qualitativer Forschungansätze: möglichst authentische und komplexe Erfassung der Perspektiven der Handelnden.
+#### Ziel qualitativer Forschungansätze
+* möglichst authentische und komplexe Erfassung der Perspektiven der Handelnden.
 
-Qualitative Forschung will keine vorab formulierten Theoriekonzepte (bias),
-sondern Verallgemeinerungen und Modelle aus der möglichst unverstellten Erfahrung des Forschers im Untersuchungsfeld selbst gewinnen.
+> Qualitative Forschung will keine vorab formulierten Theoriekonzepte (bias),
+> sondern Verallgemeinerungen und Modelle aus der möglichst unverstellten Erfahrung des Forschers im Untersuchungsfeld selbst gewinnen.
 
-Klassische Gütekriterien 
-* Validität (Gültigkeit)
-* Reliabilität (Zuverlässigkeit)
+#### Klassische Gütekriterien 
+1. Validität (Gültigkeit)
+2. Reliabilität (Zuverlässigkeit)
 
-Wandel von Klassisch zu methodenangemessen
+#### Wandel von Klassisch zu methodenangemessen
 1. Konzept der analytischen Induktion
     * Entwicklung von Theorie, abweichende Fälle werden gesucht, bis universelle Annahme etablitert ist 
 2. Verfahren der Triangularition
     * Kombination verschiedener Datenmaterialien, Forscher u. Untersuchungsgruppen
     * Verknüpfung verschiedener Theorieansätze
     * Kombination verschiedener Methoden bei der Analyse
-3. 
 
-
-#### Schwerpunkte 
+#### Schwerpunkte der qualitativen Forschung
 in den letzten beiden Jahrzehnten
 1. Durchführung von Lebensweltstudien 
     * Analyse des Alltags im Heim
