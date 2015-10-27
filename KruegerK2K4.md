@@ -93,13 +93,15 @@ Unterscheidung bzgl.
 
 #### Interviewverfahren
 Unterscheidung hinsichtlich der Strukturiertheit
-* weniger strukturierte Form - narrative Interview - Erzählaufforderung 
-* halbstrukturierte Form - problemzentrierte Interview - offener Leitfaden 
+
+1. weniger strukturierte Form - narrative Interview - Erzählaufforderung 
+2. halbstrukturierte Form - problemzentrierte Interview - offener Leitfaden 
     * Zentrale Kommunikationsstrategien: Gesprächseinstieg, Ad-hoc Fragen, ...
-* eher geschlossene Form - thematisch orientierte Leitfadeninterviews  
+3. eher geschlossene Form - thematisch orientierte Leitfadeninterviews  
 
 #### Gruppendiskussionsverfahren
 Ziel: 
+
 * informelle Gruppenmeinungen zu untersuchen.
 * situationsbezogene Orientierungen und konkrete Aushandlungsprozesse in Realgruppen zu analysieren.
 
@@ -116,7 +118,7 @@ Unterscheiden sich hinsichtlich
 >>Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahmen etc..
 
 
-#### Qulitative Methodne der Datenauswertung 
+#### Qulitative Methoden der Datenauswertung 
 (PdfS. 12 Übersicht)
 * ***desktiptiv-analystisch-typologisch***
     1. Paraphrasierung (Textinterpretation)
