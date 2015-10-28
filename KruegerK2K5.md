@@ -14,19 +14,19 @@ Haupt- und Forschungsseminar WiSe 2015/16
 >> Um Zusammenhänge, Bedingungen, Wechselwirkungen und Abhängigkeiten von Variablen im Bereich von Bildung und Erziehung konkret erklären zu können.
 >>> forschhungsleitende Hypothesen müssen in Meßvorgänge (operational definiert werden) übersetzt werden
 
-##### Grundannahmen:
+##### Grundannahmen
 * vom Kritischen Rationalismus Ziel: durch geeignete Forschungsmethoden zu gesetzesartigen Aussagen zu gelangen.
 Diese Gesetzte sind prinzipiell nicht verifizierbar, sondern haben vorläufigen Charakter.
 * Gesetze als Versuch Relationen zwischen begrifflich gefassten Tatsachen oder Variablen (zwei Ausprägungsmerkmale) zu beschreiben.
 Empirische Begriffe bezeichnen i.d.R. Merkmale von Objekten.
 ***Zur Überprüfung müssen Begriffe operational definiert und die sich daraus ergebenden Meßoperationen festgelegt werden!!***
 
-##### Skalenniveaus:
+##### Skalenniveaus
 * Nominal (gleich oder ungleich)
 * Ordinal (Rangordnung)
 * Intervall (Skalenstufen haben gleiche Abstände)
 
-##### Gütekreterien
+##### Gütekriterien
 1. Objektivität 
     * Durchführungs
     * Ausführungs
