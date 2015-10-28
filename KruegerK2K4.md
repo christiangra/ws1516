@@ -84,6 +84,7 @@ in den letzten beiden Jahrzehnten
 
 #### qualitative Methoden der Datensammlung und -erhebung
 Unterscheidung bzgl.
+
 1. verschiedener Befragungstechniken
     1. Einzelinterview
     2. Gruppendiskussionsverfahren
@@ -94,10 +95,10 @@ Unterscheidung bzgl.
 #### Interviewverfahren
 Unterscheidung hinsichtlich der Strukturiertheit
 
-1. weniger strukturierte Form - narrative Interview - Erzählaufforderung 
-2. halbstrukturierte Form - problemzentrierte Interview - offener Leitfaden 
+1. weniger strukturierte Form - ***narrative Interview*** - Erzählaufforderung 
+2. halbstrukturierte Form - ***problemzentrierte Interview*** - offener Leitfaden 
     * Zentrale Kommunikationsstrategien: Gesprächseinstieg, Ad-hoc Fragen, ...
-3. eher geschlossene Form - thematisch orientierte Leitfadeninterviews  
+3. eher geschlossene Form - ***thematisch orientierte Leitfadeninterviews***  
 
 #### Gruppendiskussionsverfahren
 Ziel: 
