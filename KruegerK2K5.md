@@ -1,36 +1,39 @@
 ### Krueger K2 K5
 Krüger: Einführung in Theorien und Methoden der Erziehungswissenschaft
-II Kapitel 5 Text - Lesen zum 28.10.15 - Haupt- und Forschungsseminar WiSe 2015/16
 
-### Mitschrift 
+II Kapitel 5 Text - Lesen zum 28.10.15 - 
+
+Haupt- und Forschungsseminar WiSe 2015/16
+
+### Quantitative Methoden
 
 ### 5.1. Entstehungskontext, Grundannahmen und Forschungsdesigns
 
-## Quantitative Methoden erziehungswissenschaftlicher Forschung
+##### Quantitative Methoden erziehungswissenschaftlicher Forschung
 > Prüfung von Hypothesen an der Realität
 >> Um Zusammenhänge, Bedingungen, Wechselwirkungen und Abhängigkeiten von Variablen im Bereich von Bildung und Erziehung konkret erklären zu können.
 >>> forschhungsleitende Hypothesen müssen in Meßvorgänge (operational definiert werden) übersetzt werden
 
-Grundannahmen:
+##### Grundannahmen:
 * vom Kritischen Rationalismus Ziel: durch geeignete Forschungsmethoden zu gesetzesartigen Aussagen zu gelangen.
 Diese Gesetzte sind prinzipiell nicht verifizierbar, sondern haben vorläufigen Charakter.
 * Gesetze als Versuch Relationen zwischen begrifflich gefassten Tatsachen oder Variablen (zwei Ausprägungsmerkmale) zu beschreiben.
 Empirische Begriffe bezeichnen i.d.R. Merkmale von Objekten.
 ***Zur Überprüfung müssen Begriffe operational definiert und die sich daraus ergebenden Meßoperationen festgelegt werden!!***
 
-Skalenniveaus:
+##### Skalenniveaus:
 * Nominal (gleich oder ungleich)
 * Ordinal (Rangordnung)
 * Intervall (Skalenstufen haben gleiche Abstände)
 
-#### Gütekreterien
+##### Gütekreterien
 1. Objektivität 
     * Durchführungs
     * Ausführungs
 2. Reliabilität (Zuverlässigkeit)
 3. Validität (Gültigkeit)
 
-#### Forschungstypus bei quantitativer Forschung
+##### Forschungstypus bei quantitativer Forschung
 * Querschnittdesign (weit verbreitet)
     *zu einem bestimmten Zeitpunkt eine einmalige Erhebung der Eigenschaften bei einer ausgewählten Stichprobe vorgenommen wird.
     * z.B. repräsentative Befragungen von Lehrerinnen zu ihrem professionellen Selbstverständnis
@@ -62,7 +65,8 @@ Pädagogische Psychologie, die Heil- und Sonderpädagogik und die Bildungssozial
 
 
 ### 5.2. Schritte und Methoden quantitativer erziehungswissenschaftlicher Forschung
-#### Ablauf
+##### Ablauf
+
 1. Auswahl des Forschungsproblems 
   * empirische Arbeit mit einem klar definierten Forschungsproblem beginnen
 2. Auftauchende Begriffe in der Forschungshypothese definieren und operationalisieren
@@ -80,7 +84,7 @@ Pädagogische Psychologie, die Heil- und Sonderpädagogik und die Bildungssozial
     * Dokumentation des Vorgehens
     * methodische Schritte
 
-#### Möglichkeiten der Datenerhebung
+##### Möglichkeiten der Datenerhebung
 Meist standartisierte mündliche oder schriftliche Befragung,
 die strukturierte Beobachtung sowie verschiedene Testverfahren.
 
@@ -108,15 +112,15 @@ die strukturierte Beobachtung sowie verschiedene Testverfahren.
       * kriteriumsorientiert
          * lernzielorientiert (Lernziel erreicht?)
 
-Def. Tests
+##### Def. Tests
 > gelten als wissenschaftliche Routineverfahren zur Untersuchung eines oder mehrerer empirisch abgrenzbarer
 > Persönlichkeitsmerkmale mit dem Ziel einer möglichst quantitativen Aussage über den Grad der individuellen Merkmalsausprägung (Lienert 1969, S.7).
 Häufig in der Erziehungswissenschaft, die Befragungsform Soziometrie.
 Soziometrie ist die quantitative Untersuchung zwischenmenschlicher Beziehungen unter dem Aspekt der Bevorzugung,
 Gleichgültigkeit oder Ablehnung in einer Wahlsituation (Geburstagseinladung?)
 
-#### Methoden
-#### Auswertung der quantitativen Daten
+##### Methoden
+##### Auswertung der quantitativen Daten
 1. Phase der Datenbereinigung
       1. Aufbereitung der Daten für den PC
       2. Daten werden codiert
@@ -128,7 +132,7 @@ Gleichgültigkeit oder Ablehnung in einer Wahlsituation (Geburstagseinladung?)
 3. Zusammenhänge untersuchen und Hypothesen testen
       1. Verschiedene komplexe Analysetechnien
 
-#### Datenanalyse 
+##### Datenanalyse 
 1. Univariate
       * Randauszählung, Häufigkeitsverteilung für jede Variable im Datensatz
       * Stabdiagramm oder Histogramm für relative Häufigkeit
