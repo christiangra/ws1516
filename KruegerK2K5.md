@@ -74,12 +74,13 @@ Pädagogische Psychologie, die Heil- und Sonderpädagogik und die Bildungssozial
 4. Typ und Größe der Stichprobe 
     * Drei Typen: Zufallsstichprobe, Quotenauswahl, willkürliche Stichprobe
 5. Erhebungsinstrument festlegen (z.B. Fragebogen - gut ist Pretest!)
-6. Daten codieren, auf Fehler kontrollieren, dem PC zugänglich machen
-7. statistische Datenanalyse (abhängig von)
+6. Erhebung durchführen
+7. Daten codieren, auf Fehler kontrollieren, dem PC zugänglich machen
+8. statistische Datenanalyse (abhängig von)
     * Art der erhobenen Daten - Skalenniveau
     * Anzahl der Stichproben
     * Anzahl der Variablen
-8. Forschungsbericht
+9. Forschungsbericht
     * empirischen Resultate
     * Dokumentation des Vorgehens
     * methodische Schritte
