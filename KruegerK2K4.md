@@ -5,7 +5,7 @@ II Kapitel 4ter Text - Lesen zum 28.10.15 -
 
 Haupt- und Forschungsseminar WiSe 2015/16 -
 
-## Qualitative Methoden erziehungswissenschaftlicher Forschung
+## Qualitative Methoden 
 
 ### 4.1 Entstehungskontext, Grundannahmen und Forschungsfelder
 ##### Qualitativ-empirische Forschung
