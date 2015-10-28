@@ -38,12 +38,12 @@ Empirische Begriffe bezeichnen i.d.R. Merkmale von Objekten.
     * zu einem bestimmten Zeitpunkt eine einmalige Erhebung der Eigenschaften bei einer ausgewählten Stichprobe vorgenommen wird.
     * z.B. repräsentative Befragungen von Lehrerinnen zu ihrem professionellen Selbstverständnis
 2. Längsschnittgesin
-    1. Trenddesign
-      * Werte der gleichen Variablen zu mehreren Zeitpunkten mit jeweils unterschiedlichen Stichproben erhoben
-      * Wichtige Informationen zum historischen Wandel - Jugendgeneration
-     2. Pandeldesign
-      * Trenddesign mit gleicher Stichprobe
-      * Daher Aussagen über altersbezogene Veränderungen von Individuen
+    * Trenddesign
+         * Werte der gleichen Variablen zu mehreren Zeitpunkten mit jeweils unterschiedlichen Stichproben erhoben
+         * Wichtige Informationen zum historischen Wandel - Jugendgeneration
+     * Pandeldesign
+         * Trenddesign mit gleicher Stichprobe
+         * Daher Aussagen über altersbezogene Veränderungen von Individuen
 3. Kohorten-Sequenz-Analysen
     * Kombination von Beiden z.B. Lebenslaufforschung
     * Periodeneffekt - Auswirkung des historischen Wandelns
@@ -116,11 +116,7 @@ die strukturierte Beobachtung sowie verschiedene Testverfahren.
 ##### Def. Tests
 > gelten als wissenschaftliche Routineverfahren zur Untersuchung eines oder mehrerer empirisch abgrenzbarer
 > Persönlichkeitsmerkmale mit dem Ziel einer möglichst quantitativen Aussage über den Grad der individuellen Merkmalsausprägung (Lienert 1969, S.7).
-Häufig in der Erziehungswissenschaft, die Befragungsform Soziometrie.
-Soziometrie ist die quantitative Untersuchung zwischenmenschlicher Beziehungen unter dem Aspekt der Bevorzugung,
-Gleichgültigkeit oder Ablehnung in einer Wahlsituation (Geburstagseinladung?)
 
-##### Methoden
 ##### Auswertung der quantitativen Daten
 1. Phase der Datenbereinigung
       1. Aufbereitung der Daten für den PC
