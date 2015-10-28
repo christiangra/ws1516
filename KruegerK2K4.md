@@ -2,10 +2,11 @@
 Krüger: Einführung in Theorien und Methoden der Erziehungswissenschaft
 II Kapitel 4ter Text - Lesen zum 28.10.15 -  Haupt- und Forschungsseminar WiSe 2015/16
 
-## Mitschrift
+## Qualitative Methoden erziehungswissenschaftlicher
+Forschung
 
 ### 4.1 Entstehungskontext, Grundannahmen und Forschungsfelder
-#### Qualitativ-empirische Forschung
+##### Qualitativ-empirische Forschung
 > hat das ***Ziel*** einer möglichst gegenstandsnahen
 > Erfassung der ganzheitlichen Eigenschaften (qualia) sozialer Felder.
 
@@ -15,24 +16,24 @@ II Kapitel 4ter Text - Lesen zum 28.10.15 -  Haupt- und Forschungsseminar WiSe 2
 
 Anfänge von qualitativer Forschung: Biographieforschung.
 
-#### Grundannahmen qualitativer Forschung
+##### Grundannahmen qualitativer Forschung
 > Unterscheidung zwischen Gegenstandsannahmen, daraus resuliterenden forschungsmethodischen Konsequenzen sowie
 > Vorstellungen über den pragmatischen Nutzen qualitativer Methoden.
 > > Dazu kommt Geltungsbegründung qualitativ erhobener Daten und Auswertungsresultate. 
 
 Qualitative Forschung geht von einem Gegenstandsverständnis aus, das die soziale Welt als eine durch interaktives Handeln konstituierte Welt begreift, die für den Einzelnen, aber auch für Kollektive sinnhaft strukturiert ist.
 
-#### Ziel qualitativer Forschungansätze
+##### Ziel qualitativer Forschungansätze
 * möglichst authentische und komplexe Erfassung der Perspektiven der Handelnden.
 
 > Qualitative Forschung will keine vorab formulierten Theoriekonzepte (bias),
 > sondern Verallgemeinerungen und Modelle aus der möglichst unverstellten Erfahrung des Forschers im Untersuchungsfeld selbst gewinnen.
 
-#### Klassische Gütekriterien 
+##### Klassische Gütekriterien 
 1. Validität (Gültigkeit)
 2. Reliabilität (Zuverlässigkeit)
 
-#### Wandel von Klassisch zu methodenangemessen
+##### Wandel von klassischen zu methodenangemessen Gütekriterien
 1. Konzept der analytischen Induktion
     * Entwicklung von Theorie, abweichende Fälle werden gesucht, bis universelle Annahme etablitert ist 
 2. Verfahren der Triangularition
@@ -40,7 +41,7 @@ Qualitative Forschung geht von einem Gegenstandsverständnis aus, das die sozial
     * Verknüpfung verschiedener Theorieansätze
     * Kombination verschiedener Methoden bei der Analyse
 
-#### Schwerpunkte der qualitativen Forschung
+##### Schwerpunkte der qualitativen Forschung
 in den letzten beiden Jahrzehnten
 
 1. Durchführung von Lebensweltstudien 
@@ -53,7 +54,7 @@ in den letzten beiden Jahrzehnten
     * Interpretation von sinnhaltigen Dokumenten (z.B. Schülerzeichnungen)
 
 ### 4.2 Schritte und Methoden qualitativer erziehungswisenschaftlicher Forschung
-#### Prozessmodell
+##### Prozessmodell
 1. quantitative Forschungslogik lineares Vorgehen
     1. Rückgriff auf Wissenbestände aus Literatur, aus festgelegten empirischen Zusammenhängen
     2. Hypothesen werden abgeleitet
@@ -69,11 +70,11 @@ in den letzten beiden Jahrzehnten
     * keine Vorab-Hypothesen
     * dafür Fragestellungen um Forschungsfeld zu beschränken
 
-#### Auswahl der Fälle
+##### Auswahl der Fälle
 * quantitative Forschung Vorab-Quotierung
 * qualitative Forschung eher geringe Fallzahlen
 
-#### Auswahlstrategien (kombinationsfähig)
+##### Auswahlstrategien (kombinationsfähig)
 * theoretisches Sampling / Anreicherung der sich entwickelnden Theorie
     * Wahl des Material wird im Proess der Datenerhebung und -auswertung gefällt
     * hypothetische Kontrasfälle werden in Daten gesucht
@@ -82,7 +83,7 @@ in den letzten beiden Jahrzehnten
 * Analytische Induktion 
     * Absicherung der Theorie durch die Analyse abweichender Fälle
 
-#### qualitative Methoden der Datensammlung und -erhebung
+##### qualitative Methoden der Datensammlung und -erhebung
 Unterscheidung bzgl.
 
 1. verschiedener Befragungstechniken
@@ -92,7 +93,7 @@ Unterscheidung bzgl.
     1. materialerzeugende Eigenaktivität des Forschers
     2. nichtreaktive Verfahren
 
-#### Interviewverfahren
+##### Interviewverfahren
 Unterscheidung hinsichtlich der Strukturiertheit
 
 1. weniger strukturierte Form - ***narrative Interview*** - Erzählaufforderung 
@@ -100,7 +101,7 @@ Unterscheidung hinsichtlich der Strukturiertheit
     * Zentrale Kommunikationsstrategien: Gesprächseinstieg, Ad-hoc Fragen, ...
 3. eher geschlossene Form - ***thematisch orientierte Leitfadeninterviews***  
 
-#### Gruppendiskussionsverfahren
+##### Gruppendiskussionsverfahren
 Ziel: 
 
 * informelle Gruppenmeinungen zu untersuchen.
@@ -108,18 +109,18 @@ Ziel:
 
 Interviews werden auf Tonband aufgezeichnet und dann nach bestimmten Regeln verschriftlicht.
 
-#### Beobachtungsverfahren
+##### Beobachtungsverfahren
 Unterscheiden sich hinsichtlich 
 * Vorstrukturierung des Beobachtungsprozesses
 * unterschiedlicher Grad der Involviertheit des Forschers
 * Beobachtung findet un- / wissentlich statt 
 
-#### zentrales Problem: 
+##### zentrales Problem: 
 > epistemologische Status der Beobachtungsnotien und -protokolle (Sichtweise des Beobachters oder beobachtete Situation)
 >>Daher: Methoden-Traingulation -> Ergänzung der Beobachtungen durch Videoaufnahmen etc..
 
 
-#### Qulitative Methoden der Datenauswertung 
+##### Qulitative Methoden der Datenauswertung 
 (PdfS. 12 Übersicht)
 * ***desktiptiv-analystisch-typologisch***
     1. Paraphrasierung (Textinterpretation)
@@ -161,7 +162,7 @@ Unterscheiden sich hinsichtlich
     
 ### Kritik und Weiterentwicklung
 
-#### Bei qualitativen Studien zwei zentrale Unzulänglichkeiten
+##### Bei qualitativen Studien zwei zentrale Unzulänglichkeiten
 1. 
     * Ebene einer intensiven Einzelfallanalyse wird vorschnell verlassen
     * Innere Sequenziertheit eines Interviewtextes wird nicht berücksichtigt
@@ -169,6 +170,6 @@ Unterscheiden sich hinsichtlich
 2. Verwechslung qualitativer und quantitativer Forschugnslogiken
     * Bsp. Verteilungsaussagen über eine Grundgesamtheit (quantitativ) auf dem Ergebnis einer qualitativen Studie (Ergebnis nicht quantitativ) 
 
-#### Entwicklung:
+##### Entwicklung:
 Qualitative Fallstudien und quantitative Surveystudien kombinieren.
 
