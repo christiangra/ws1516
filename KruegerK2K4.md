@@ -16,8 +16,6 @@ Haupt- und Forschungsseminar WiSe 2015/16 -
 
 > > Unter Berücksichtigung der Weltsicht der dort Handelnden.
 
-Anfänge von qualitativer Forschung: Biographieforschung.
-
 ##### Grundannahmen qualitativer Forschung
 > Unterscheidung zwischen Gegenstandsannahmen, daraus resuliterenden forschungsmethodischen Konsequenzen sowie
 > Vorstellungen über den pragmatischen Nutzen qualitativer Methoden.
