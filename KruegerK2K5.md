@@ -34,25 +34,25 @@ Empirische Begriffe bezeichnen i.d.R. Merkmale von Objekten.
 3. Validität (Gültigkeit)
 
 ##### Forschungstypus bei quantitativer Forschung
-* Querschnittdesign (weit verbreitet)
-    *zu einem bestimmten Zeitpunkt eine einmalige Erhebung der Eigenschaften bei einer ausgewählten Stichprobe vorgenommen wird.
+1. Querschnittdesign (weit verbreitet)
+    * zu einem bestimmten Zeitpunkt eine einmalige Erhebung der Eigenschaften bei einer ausgewählten Stichprobe vorgenommen wird.
     * z.B. repräsentative Befragungen von Lehrerinnen zu ihrem professionellen Selbstverständnis
-* Längsschnittgesin
+2. Längsschnittgesin
     1. Trenddesign
       * Werte der gleichen Variablen zu mehreren Zeitpunkten mit jeweils unterschiedlichen Stichproben erhoben
       * Wichtige Informationen zum historischen Wandel - Jugendgeneration
      2. Pandeldesign
       * Trenddesign mit gleicher Stichprobe
       * Daher Aussagen über altersbezogene Veränderungen von Individuen
-* Kohorten-Sequenz-Analysen
+3. Kohorten-Sequenz-Analysen
     * Kombination von Beiden z.B. Lebenslaufforschung
     * Periodeneffekt - Auswirkung des historischen Wandelns
     * Kohorteneffekt - Nachwirkungen der spezifisch frühreren Erfahrungen, Sozialisation
     * Alterskohorte u. Alterseffekt - Veränderung durch den Lebenslauf als Altersprozess
-* experimentelles Design
+4. experimentelles Design
     * Arbeiten mit Versuchs- und Kontrollgruppe (Placebo?) und einem Testverfahren.
     * abhängige Variable (gemessen), unabhängige Variable (verändert)
-* quantitative Inhaltsanalyse
+5. quantitative Inhaltsanalyse
     * objektive, systematische und quantitative Beschreibung des manifesten Inhalts von Kommunikation
     * methodisch: Häufigkeitsanalyse, Intensitätsanalysen und Kontigenzanalysen von Textelementen
     * quantitative Sekundäranalyse von bereits vorliegenden Statistiken
