@@ -1,10 +1,3 @@
-### Krueger K2 K5
-Krüger: Einführung in Theorien und Methoden der Erziehungswissenschaft
-
-II Kapitel 5 Text - Lesen zum 28.10.15 - 
-
-Haupt- und Forschungsseminar WiSe 2015/16
-
 ### Quantitative Methoden
 
 ### 5.1. Entstehungskontext, Grundannahmen und Forschungsdesigns
