@@ -48,7 +48,7 @@ in den letzten beiden Jahrzehnten
 
 ### 4.2 Schritte und Methoden qualitativer erziehungswisenschaftlicher Forschung
 ##### Prozessmodell
-1. quantitative Forschungslogik lineares Vorgehen
+1. quantitative Forschungslogik ist ein lineares Vorgehen
     1. Rückgriff auf Wissenbestände aus Literatur, aus festgelegten empirischen Zusammenhängen
     2. Hypothesen werden abgeleitet
     3. Diese werden in operatonalisierter Form überprüft
