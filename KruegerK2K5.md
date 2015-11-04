@@ -79,12 +79,12 @@ Pädagogische Psychologie, die Heil- und Sonderpädagogik und die Bildungssozial
     * methodische Schritte
 
 ##### Möglichkeiten der Datenerhebung
-Meist standartisierte mündliche oder schriftliche Befragung,
+Meist standardisierte mündliche oder schriftliche Befragung,
 die strukturierte Beobachtung sowie verschiedene Testverfahren.
 
 1. Befragung
     * mündliche (Interview z.B. Telefoninterview)
-      * z.B. mit standartisiertem Fragebogen
+      * z.B. mit standardisiertem Fragebogen
         * Gleiche Reihenfolge der Fragen mit Antwortvorgaben
     * schriftlich (meist Fragebögen)
       * Rücklaufquote geringer
