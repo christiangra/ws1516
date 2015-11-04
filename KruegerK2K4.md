@@ -69,9 +69,9 @@ in den letzten beiden Jahrzehnten
 
 ##### Auswahlstrategien (kombinationsfähig)
 * theoretisches Sampling / Anreicherung der sich entwickelnden Theorie
-    * Wahl des Material wird im Proess der Datenerhebung und -auswertung gefällt
-    * hypothetische Kontrasfälle werden in Daten gesucht
-    * Anreichung der sich entwickelnden Theorie
+    * Wahl des Material wird im Prozess der Datenerhebung und -auswertung gefällt
+    * hypothetische Kontrastfälle werden in Daten gesucht
+    * Anreicherung der sich entwickelnden Theorie
     * Abschluss, wenn theoretische Sättigung einer Untersuchungsgrupep erreicht ist
 * Analytische Induktion 
     * Absicherung der Theorie durch die Analyse abweichender Fälle
@@ -114,7 +114,7 @@ Unterscheiden sich hinsichtlich
 
 
 ##### Qulitative Methoden der Datenauswertung 
-(PdfS. 12 Übersicht)
+(Pdf S. 12 Übersicht)
 * ***desktiptiv-analystisch-typologisch***
     1. Paraphrasierung (Textinterpretation)
       1. virtuelles Sich-Heinein-Versetzen 
