@@ -1,6 +1,3 @@
-### Krueger K2 K4 
-Krüger: Einführung in Theorien und Methoden der Erziehungswissenschaft -
-
 ## Qualitative Methoden 
 
 ### 4.1 Entstehungskontext, Grundannahmen und Forschungsfelder
