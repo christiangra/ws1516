@@ -52,7 +52,7 @@ in den letzten beiden Jahrzehnten
     1. Rückgriff auf Wissenbestände aus Literatur, aus festgelegten empirischen Zusammenhängen
     2. Hypothesen werden abgeleitet
     3. Diese werden in operatonalisierter Form überprüft
-2. qualitative Forschung zirkulären Modell der Abfolge von Forschungsschritten
+2. qualitative Forschung ist ein zirkuläres Modell der Abfolge von Forschungsschritten
     * ***Gegenstandsbezogenen Theoriebildung!***
     1. Orientierung an einem Vorverständnis über das zu untersuchende Feld
     2. Dies wird als vorläufig angesehen und muss im Verlauf des Forschungsprozesses ständig reformuliert werden.
