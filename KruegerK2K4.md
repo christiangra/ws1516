@@ -160,7 +160,7 @@ Unterscheiden sich hinsichtlich
     * Ebene einer intensiven Einzelfallanalyse wird vorschnell verlassen
     * Innere Sequenziertheit eines Interviewtextes wird nicht berücksichtigt
       * d.h. themenbezogener Querschnittsauswertung wird rasch in zentrale Kernaussagen zusammengefasst
-2. Verwechslung qualitativer und quantitativer Forschugnslogiken
+2. Verwechslung qualitativer und quantitativer Forschungslogiken
     * Bsp. Verteilungsaussagen über eine Grundgesamtheit (quantitativ) auf dem Ergebnis einer qualitativen Studie (Ergebnis nicht quantitativ) 
 
 ##### Entwicklung:
