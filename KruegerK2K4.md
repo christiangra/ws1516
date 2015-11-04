@@ -72,7 +72,7 @@ in den letzten beiden Jahrzehnten
     * Wahl des Material wird im Prozess der Datenerhebung und -auswertung gefällt
     * hypothetische Kontrastfälle werden in Daten gesucht
     * Anreicherung der sich entwickelnden Theorie
-    * Abschluss, wenn theoretische Sättigung einer Untersuchungsgrupep erreicht ist
+    * Abschluss, wenn theoretische Sättigung einer Untersuchungsgruppe erreicht ist
 * Analytische Induktion 
     * Absicherung der Theorie durch die Analyse abweichender Fälle
 
