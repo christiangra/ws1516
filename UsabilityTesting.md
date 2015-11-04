@@ -8,7 +8,7 @@
 	* teilweise technisch umgesetzt
 	* ausführliches Feedback
 	* zeit- u. kostenaufwändig
-* ***Low-Tech***
+* ***Low-Tech*** [Beispiel](https://s-media-cache-ak0.pinimg.com/originals/37/75/fd/3775fd3f89c6b1ac57a5a33893a1096c.gif)
 	* Abläufe, Darstellungen, Funktionen
 	* gewöhnlich mit Papier
 * ***Vertikale Prototypen***
