@@ -55,8 +55,8 @@ in den letzten beiden Jahrzehnten
 2. qualitative Forschung ist ein zirkuläres Modell der Abfolge von Forschungsschritten
     * ***Gegenstandsbezogenen Theoriebildung!***
     1. Orientierung an einem Vorverständnis über das zu untersuchende Feld
-    2. Dies wird als vorläufig angesehen und muss im Verlauf des Forschungsprozesses ständig reformuliert werden.
-    3. Ziel ist es: neue Theroie zu entwickeln, die zwischen der bereits bestehenden und der sich entfaltenden Theorie
+    2. Dies wird als vorläufig angesehen und muss im Verlauf des Forschungsprozesses ständig reformuliert werden
+    3. Ziel: neue Theroie zu entwickeln
 
 ##### Orientierung
 * Prinzip der Offenheit 
