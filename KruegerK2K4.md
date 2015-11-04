@@ -89,8 +89,8 @@ Unterscheidung bzgl.
 ##### Interviewverfahren
 Unterscheidung hinsichtlich der Strukturiertheit
 
-1. weniger strukturierte Form - ***narrative Interview*** - Erzählaufforderung 
-2. halbstrukturierte Form - ***problemzentrierte Interview*** - offener Leitfaden 
+1. weniger strukturierte Form - ***narratives Interview*** - Erzählaufforderung 
+2. halbstrukturierte Form - ***problemzentriertes Interview*** - offener Leitfaden 
     * Zentrale Kommunikationsstrategien: Gesprächseinstieg, Ad-hoc Fragen, ...
 3. eher geschlossene Form - ***thematisch orientierte Leitfadeninterviews***  
 
